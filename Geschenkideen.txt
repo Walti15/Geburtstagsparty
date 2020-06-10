@@ -1,3 +1,5 @@
 Fahrrad
 Moped
 Auto
+Segway
+Schuhe
