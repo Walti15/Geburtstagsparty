@@ -1,3 +1,4 @@
-A schlecht
-B schlecht
-C schlecht
+A gut
+B gut
+C gut
+
